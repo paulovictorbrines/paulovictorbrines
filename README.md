@@ -12,7 +12,7 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Assembly" height="25" width="30" src="https://img.icons8.com/office/50/000000/Assembly-machine.png">
-  <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73205479/158078301-780e1ef3-b6a9-4392-97ec-f458a75f3ff8.gif">
+  <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73205479/158079525-bfa0f400-fb84-4a9f-8817-7fb9d806959c.gif">
 </div>
   
   ##
