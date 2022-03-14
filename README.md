@@ -11,7 +11,8 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Assembly" height="25" width="30" src="https://img.icons8.com/office/50/000000/Assembly-machine.png">
+  <img align="center" alt=" " height="30" width="8" src="https://user-images.githubusercontent.com/73205479/158086259-cd4094fc-c3f7-4761-bf5f-f5603de29f45.png">
+  <img align="center" alt="Assembly" height="25" width="25" src="https://user-images.githubusercontent.com/73205479/158086021-6c5de8e0-74dc-4f42-b66a-c18c174f023b.png">
   <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73205479/158079634-a6f83e53-1281-48de-b5e1-2b5445a686d0.gif">
 </div>
   
@@ -24,3 +25,5 @@
   ![Snake animation](https://github.com/paulovictorbrines/paulovictorbrines/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+![transparente](https://user-images.githubusercontent.com/73205479/158086259-cd4094fc-c3f7-4761-bf5f-f5603de29f45.png)
