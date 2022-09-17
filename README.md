@@ -25,3 +25,4 @@
   ![Snake animation](https://github.com/paulovictorbrines/paulovictorbrines/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+![perfil_glitch](https://user-images.githubusercontent.com/73205479/190879977-085b2af8-b9e7-469c-9bd0-891fd1278596.gif)
