@@ -26,4 +26,4 @@
  
 </div>
 
-![transparente](https://user-images.githubusercontent.com/73205479/158086259-cd4094fc-c3f7-4761-bf5f-f5603de29f45.png)
+
