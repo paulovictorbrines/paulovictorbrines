@@ -4,7 +4,7 @@
   <a href="https://github.com/paulovictorbrines">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulovictorbrines&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbrines&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height="150em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbrines&layout=compact&langs_count=7&theme=chartreuse-dark](https://user-images.githubusercontent.com/73205479/190879977-085b2af8-b9e7-469c-9bd0-891fd1278596.gif)"/>
+  <img height="150em" src="https://user-images.githubusercontent.com/73205479/190879977-085b2af8-b9e7-469c-9bd0-891fd1278596.gif"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,4 +26,3 @@
   ![Snake animation](https://github.com/paulovictorbrines/paulovictorbrines/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-![20200916_152711 brines 1](https://user-images.githubusercontent.com/73205479/190880020-1771fa28-e7d9-46f6-ba35-8b43728da232.jpg)
