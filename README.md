@@ -4,7 +4,7 @@
   <a href="https://github.com/paulovictorbrines">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulovictorbrines&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbrines&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-  <img height="150em" src="https://user-images.githubusercontent.com/73205479/190879977-085b2af8-b9e7-469c-9bd0-891fd1278596.gif"/>
+    
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt=" " height="30" width="8" src="https://user-images.githubusercontent.com/73205479/158086259-cd4094fc-c3f7-4761-bf5f-f5603de29f45.png">
   <img align="center" alt="Assembly" height="25" width="25" src="https://user-images.githubusercontent.com/73205479/158086021-6c5de8e0-74dc-4f42-b66a-c18c174f023b.png">
-  <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73205479/158079634-a6f83e53-1281-48de-b5e1-2b5445a686d0.gif">
+  <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73205479/190880176-e1c0b969-6427-4841-a3c7-d614b52f6bb0.gif">
 </div>
   
   ##
@@ -24,6 +24,6 @@
   <a href = "mailto:contatopaulovictor.brines@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/paulovictorbrines/paulovictorbrines/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
-  ![teste](https://user-images.githubusercontent.com/73205479/190880046-fe4d5882-52d4-46c0-a983-c8b7ac9e90f3.jpg)
+
