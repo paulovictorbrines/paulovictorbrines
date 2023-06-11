@@ -1,4 +1,4 @@
-## <／Ｂｒ１ｎ３_ｓ／> ™ 
+## <／Ｂｒ１ｎ３_ｓ> ™ 
 
 <div align="center">
   <a href="https://github.com/paulovictorbrines">
