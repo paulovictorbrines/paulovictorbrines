@@ -1,4 +1,8 @@
-## <／Ｂｒ１ｎ３_ｓ> ™ 
+<!-- ## <／Ｂｒ１ｎ３_ｓ> ™ -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<+/+B+r+1+n+3+_+s+™+>;" />
+</h1>
 
 <div align="center">
   <a href="https://github.com/paulovictorbrines">
@@ -22,8 +26,5 @@
 <div> 
   <a href="https://www.linkedin.com/in/paulovictorfs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatopaulovictor.brines@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/paulovictorbrines/paulovictorbrines/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
