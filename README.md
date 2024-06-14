@@ -1,7 +1,8 @@
 <!-- ## <／Ｂｒ１ｎ３_ｓ> ™ -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<+/+B+r+1+n+3+_+s+™+>;" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+code&size=35&pause=1000&color=13A10E&center=true&vCenter=true&random=false&width=435&lines=%24+%3C+%2F+B+r+1+n+3+_+s+%3E" alt="Typing SVG" /></a>
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<+/+B+r+1+n+3+_+s+™+>;" /> -->
 </h1>
 
 <div align="center">
