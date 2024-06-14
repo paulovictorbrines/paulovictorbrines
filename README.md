@@ -5,11 +5,15 @@
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=<+/+B+r+1+n+3+_+s+™+>;" /> -->
 </h1>
 
+</br>
+
 <div align="center">
   <a href="https://github.com/paulovictorbrines">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulovictorbrines&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovictorbrines&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+
+  ##
 
 <img align="right" alt="pic" height="160" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73205479/190880176-e1c0b969-6427-4841-a3c7-d614b52f6bb0.gif">
     
